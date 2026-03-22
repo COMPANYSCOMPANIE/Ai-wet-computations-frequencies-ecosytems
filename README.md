@@ -5,7 +5,7 @@ CREATE TABLE asset_records (
     address 311mosalyave(258),
     value INT,
     truth truth(258),
-    intellectualproperty VARCHAR(258),
+    intellectualproperty salvadorsalinas(258),
     companyname COMPANYSCOMPANIE(258),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
